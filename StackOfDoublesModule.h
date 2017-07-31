@@ -1,4 +1,4 @@
- /* stackOfDoublesModule.h
+ /* StackOfDoublesModule.h
   * Equipo 06
   * 02/07/2017
   */
