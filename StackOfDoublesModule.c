@@ -1,10 +1,10 @@
 
- /* stackOfDoublesModule.c
+ /* StackOfDoublesModule.c
   * Equipo 06
   * 02/07/2017
   */
 
-#include "stackOfDoublesModule.h"
+#include "StackOfDoublesModule.h"
 #define MAXVAL 50 ///* maximum depth of val stack */
 
  static StackItem stack[MAXVAL]; 
